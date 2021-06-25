@@ -31,6 +31,6 @@ jobs:
           commit_message: 'Auto Fixes: Code formatted'
           commit_options: '--no-verify'
           repository: .
-          commit_user_name: ZauteKm
+          commit_user_name: shivam
           commit_user_email: zautekm@yahoo.com
           commit_author: Zaute Km <zautekm@yahoo.com>
