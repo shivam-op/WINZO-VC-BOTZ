@@ -22,7 +22,7 @@ def _start(client, message):
                         "Channel 📢", url=f"https://t.me/{UPDATES_CHANNEL}")
                 ],[
                     InlineKeyboardButton(
-                        "🔥 Source Code 🔥", url=f"https://{SOURCE_CODE}")
+                        "🔥 Source Code 🔥", url=f"https://t.me/SHIVAM9412")
                 ]
             ]
         ),
@@ -88,7 +88,6 @@ def map(pos):
             [InlineKeyboardButton("➕ Add me to your Group ➕", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")],
             [InlineKeyboardButton(text = '👥 Group', url=f"https://t.me/{SUPPORT_GROUP}"),
              InlineKeyboardButton(text = 'Channel 📢', url=f"https://t.me/{UPDATES_CHANNEL}")],
-            [InlineKeyboardButton(text = '🔥 Source Code 🔥', url=f"https://{SOURCE_CODE}")],
             [InlineKeyboardButton(text = '◀️ Back', callback_data = f"help+{pos-1}")]
         ]
     else:
