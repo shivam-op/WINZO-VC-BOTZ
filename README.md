@@ -1,7 +1,7 @@
 
 ### Deploy To Heroku 📡</h4>
 
-<p align="center"><a href="https://goorm.io/deploy?template=https://github.com/shivam-op/WINZO-VC-BOTZ"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="210" height="34.45"/></a></p>
+<p align="center"><a href="https://goorm.io/deploy?template=https://github.com/shivam-op/WINZO-VC-BOTZ"> <img src="https://img.shields.io/badge/Deploy%20To%20goorm-blueviolet?style=for-the-badge&logo=heroku" width="210" height="34.45"/></a></p>
 
 ###  GET STRING SESSION FROM REPL RUN
 
